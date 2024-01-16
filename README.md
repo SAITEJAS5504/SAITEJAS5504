@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaiTejas
+- 👋 Hi, I’m SaiTejas
 - 👀 I’m interested in learning,earning and enjoying
 - 🌱 I’m currently learning programming and its technicalities 
 - 💞️ I’m looking to collaborate on projects,tasks
